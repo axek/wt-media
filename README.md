@@ -1,7 +1,9 @@
-# Winding Tree media resources
+# Winding Tree "Web-Ready" Media Assets
 
 
-Winding Tree design elements publicly available for anyone who wants to use our brand in the right way.
+Winding Tree design elements are publicly available for anyone who wants to use our brand in the right way.
+
+We have removed the style guide PDF and all the editable images files from this branch, so you can easily get the most suitable assets to use on web projects.
 
 <img src="logo.svg?sanitize=true" alt="Winding Tree" width="300px">
 
@@ -10,7 +12,7 @@ Winding Tree design elements publicly available for anyone who wants to use our 
 Install it as an npm dependency directly from GitHub.
 
 ```js
- npm install --save https://github.com/windingtree/media/
+ npm install --save https://github.com/windingtree/media.git#web-assets
 ```
 
 ## Usage terms
