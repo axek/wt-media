@@ -5,7 +5,7 @@ Winding Tree design elements are publicly available for anyone who wants to use 
 
 We have removed the style guide PDF and all the editable images files from this branch, so you can easily get the most suitable assets to use on web projects.
 
-<img src="logo.svg?sanitize=true" alt="Winding Tree" width="300px">
+<img src="logo-variants/full-logo/svg/logo--gradient_black-text.svg?sanitize=true" alt="Winding Tree" width="300px">
 
 ## How to use
 
