@@ -1,9 +1,7 @@
 # Winding Tree "Web-Ready" Media Assets
 
 
-Winding Tree design elements are publicly available for anyone who wants to use our brand in the right way.
-
-We have removed the style guide PDF and all the editable images files from this branch, so you can easily get the most suitable assets to use on web projects.
+Winding Tree design assets to use on web projects and apps.
 
 <img src="logo-variants/full-logo/svg/logo--gradient_black-text--lg.svg?sanitize=true" alt="Winding Tree" width="300px">
 
