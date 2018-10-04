@@ -7,10 +7,12 @@ Winding Tree design assets to use on web projects and apps.
 
 ## How to use
 
+#### Consider to use [wt-ui-assets](https://github.com/windingtree/wt-ui-assets) instead.
+
 Install it as an npm dependency directly from GitHub.
 
 ```js
- npm install --save https://github.com/windingtree/media.git#web-assets
+ npm install --save https://github.com/windingtree/wt-media.git#web-assets
 ```
 
 ## Usage terms
